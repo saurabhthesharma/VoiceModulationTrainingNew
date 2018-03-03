@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="230px" viewBox="0 0 1024 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Header Triangles</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1024" height="230"></rect>
+    </defs>
+    <g id="Homepage-(WIP-UX-ONLY)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="triangles" sketch:type="MSLayerGroup">
+            <mask id="mask-2" sketch:name="Mask" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <polygon id="Triangle-4" opacity="0.526527519" fill-opacity="0.25" fill="#555555" sketch:type="MSShapeGroup" points="227 -3.40181108 190.699219 151.746094 92.9682617 65.6814954 "></polygon>
+            <polygon id="Triangle-4-Copy" opacity="0.526527519" fill-opacity="0.13" fill="#555555" sketch:type="MSShapeGroup" points="227.277344 -1.06178977 352.820068 81.8848962 190.820312 150.235085 "></polygon>
+            <polygon id="Triangle-4-Copy-20" opacity="0.526527519" fill-opacity="0.13" fill="#555555" sketch:type="MSShapeGroup" points="560.187499 3.9551669 773.451172 20.3863636 536.945312 130.986062 "></polygon>
+            <polygon id="Triangle-4-Copy-14" opacity="0.526527519" fill-opacity="0.1" fill="#555555" sketch:type="MSShapeGroup" points="192.875 151.648082 346.173828 227.165838 210.654297 295.136719 "></polygon>
+            <polygon id="Triangle-4-Copy-12" opacity="0.526527519" fill-opacity="0.14" fill="#555555" sketch:type="MSShapeGroup" points="95.7714844 69.8330966 191.255859 151.86044 77.9726562 222.295898 "></polygon>
+            <polygon id="Triangle-4-Copy-10" opacity="0.526527519" fill-opacity="0.26" fill="#555555" sketch:type="MSShapeGroup" points="-11.062501 -30.7831467 93.3701172 65.8642255 -35.3671865 54.2565231 "></polygon>
+            <polygon id="Triangle-4-Copy-7" opacity="0.526527519" fill-opacity="0.2" fill="#555555" sketch:type="MSShapeGroup" points="747.125 195.21005 910.457031 279.085316 747.125 348.820401 "></polygon>
+            <polygon id="Triangle-4-Copy-6" opacity="0.526527519" fill-opacity="0.107789855" fill="#555555" sketch:type="MSShapeGroup" points="748.125 194.250355 736.25 369.000533 652.152344 264.5 "></polygon>
+            <polygon id="Triangle-4-Copy-3" opacity="0.526527519" fill-opacity="0.2" fill="#555555" sketch:type="MSShapeGroup" points="351.714844 82.5909091 349.277344 228.644176 191.445312 150.555664 "></polygon>
+            <polygon id="Triangle-4-Copy-25" opacity="0.526527519" fill-opacity="0.25" fill="#555555" sketch:type="MSShapeGroup" points="560.5 -143.513139 560.5 2.9321733 395.466797 -74.2926136 "></polygon>
+            <polygon id="Triangle-4-Copy-21" opacity="0.526527519" fill-opacity="0.2" fill="#555555" sketch:type="MSShapeGroup" points="770.097656 22.0831854 748.478516 194.344283 532.263672 133.381214 "></polygon>
+            <polygon id="Triangle-4-Copy-33" opacity="0.526527519" fill-opacity="0.1" fill="#555555" sketch:type="MSShapeGroup" points="1015.45117 -64.0197976 991.695312 96.1164736 884.076172 -25.2726382 "></polygon>
+            <polygon id="Triangle-4-Copy-35" opacity="0.526527519" fill-opacity="0.1" fill="#555555" sketch:type="MSShapeGroup" points="1109.60352 52.7587003 1076.20898 216.611239 992.201172 96.2328657 "></polygon>
+            <polygon id="Triangle-4-Copy-13" opacity="0.526527519" fill-opacity="0.19" fill="#555555" sketch:type="MSShapeGroup" points="192.492188 151.835938 212.311523 309.705439 81.1875 221.330078 "></polygon>
+            <polygon id="Triangle-4-Copy-11" opacity="0.526527519" fill-opacity="0.1" fill="#555555" sketch:type="MSShapeGroup" points="94.7773438 66.5129617 78.375 219.761896 -80.4023438 49.552912 "></polygon>
+            <polygon id="Triangle-4-Copy-4" opacity="0.526527519" fill-opacity="0.1" fill="#555555" sketch:type="MSShapeGroup" points="535.289063 135.774325 578.082031 265.545455 367.277344 231.159801 "></polygon>
+            <polygon id="Triangle-4-Copy-19" opacity="0.526527519" fill-opacity="0.1" fill="#555555" sketch:type="MSShapeGroup" points="560.070309 2.54012784 534.958981 131.70277 353.048828 82.7833278 "></polygon>
+            <polygon id="Triangle-4-Copy-17" opacity="0.526527519" fill-opacity="0.1" fill="#555555" sketch:type="MSShapeGroup" points="411.68164 -80.1671697 354.146484 82.5909091 225.390625 -3.00772372 "></polygon>
+            <polygon id="Triangle-4-Copy-23" opacity="0.526527519" fill-opacity="0.1" fill="#555555" sketch:type="MSShapeGroup" points="927.472656 159.221502 884.396484 265.545455 747.480469 194.795543 "></polygon>
+            <polygon id="Triangle-4-Copy-29" opacity="0.526527519" fill-opacity="0.1" fill="#555555" sketch:type="MSShapeGroup" points="884.193359 -23.9147727 928.916016 155.772727 770.179688 22.1424006 "></polygon>
+            <polygon id="Triangle-4-Copy-31" opacity="0.526527519" fill-opacity="0.1" fill="#555555" sketch:type="MSShapeGroup" points="991.972656 96.2042796 1088.04102 234.804599 929.964844 157.099965 "></polygon>
+            <path d="M352.527344,82.5909091 L537.929681,132.509322 C537.929681,132.509322 402.663578,213.6453 349.111328,236.509588 C348.219567,236.890328 352.527344,82.5909091 352.527344,82.5909091 Z" id="Triangle-4-Copy-2" opacity="0.526527519" fill-opacity="0.2" fill="#555555" sketch:type="MSShapeGroup" ></path>
+            <path d="M-19.1152344,-37.8885477 L226.817382,-3.3410641 C226.817382,-3.3410641 93.5296809,65.5499803 93.5296828,65.5499786 C93.5296847,65.5499768 -19.1152344,-37.8885477 -19.1152344,-37.8885477 Z" id="Triangle-4-Copy-8" opacity="0.526527519" fill-opacity="0.17" fill="#555555" sketch:type="MSShapeGroup" ></path>
+            <path d="M535.566406,135.035156 L748.714691,194.510828 C748.714691,194.510828 642.341312,271.761954 588.789062,294.626242 C587.897302,295.006982 535.566406,135.035156 535.566406,135.035156 Z" id="Triangle-4-Copy-5" opacity="0.526527519" fill-opacity="0.17" fill="#555555" sketch:type="MSShapeGroup" ></path>
+            <polygon id="Triangle-4-Copy-28" opacity="0.526527519" fill-opacity="0.17" fill="#555555" sketch:type="MSShapeGroup"  points="700.374999 -134.099964 885.554687 -24.8662995 771.088046 20.5960014 "></polygon>
+            <path d="M561.806641,-133.497603 L736.148285,-76.6743638 C736.148285,-76.6743638 615.35889,-19.9607018 561.806641,2.90358667 C560.91488,3.28432658 561.806641,-133.497603 561.806641,-133.497603 Z" id="Triangle-4-Copy-26" opacity="0.526527519" fill-opacity="0.17" fill="#555555" sketch:type="MSShapeGroup" ></path>
+            <path d="M407.355469,-68.3833453 L559.632812,2.79537366 C559.632812,2.79537366 408.644046,59.7266285 352.820068,82.590917 C354.200036,82.9716569 407.355469,-68.3833453 407.355469,-68.3833453 Z" id="Triangle-4-Copy-18" opacity="0.526527519" fill-opacity="0.2" fill="#555555" sketch:type="MSShapeGroup" ></path>
+            <polygon id="Triangle-4-Copy-30" opacity="0.526527519" fill-opacity="0.2" fill="#555555" sketch:type="MSShapeGroup"  points="884.277344 -24.0311609 991.753906 96.446245 929.298828 157.112216 "></polygon>
+            <path d="M928.999999,157.02033 L1079.63281,229.909179 C1079.63281,229.909179 924.149906,285.46313 870.597656,308.327418 C869.705895,308.708158 928.999999,157.02033 928.999999,157.02033 Z" id="Triangle-4-Copy-24" opacity="0.526527519" fill-opacity="0.2" fill="#555555" sketch:type="MSShapeGroup" ></path>
+            <path d="M1014.66602,-56.338157 L1184.67383,32.0088778 C1184.67383,32.0088778 1045.31611,73.2514695 991.763865,96.115758 C990.872104,96.496498 1014.66602,-56.338157 1014.66602,-56.338157 Z" id="Triangle-4-Copy-34" opacity="0.526527519" fill-opacity="0.05" fill="#555555" sketch:type="MSShapeGroup" ></path>
+            <path d="M770.056641,21.6993083 L931.013675,157.71662 C931.013675,157.71662 883.320689,166.885979 831.076175,177.028942 C802.077063,182.658948 770.05664,190.591265 747.757813,197.017135 C746.822763,197.286589 770.056641,21.6993083 770.056641,21.6993083 Z" id="Triangle-4-Copy-22" opacity="0.526527519" fill-opacity="0.1" fill="#555555" sketch:type="MSShapeGroup" ></path>
+            <polygon id="Triangle-4-Copy-27" opacity="0.526527519" fill-opacity="0.06" fill="#555555" sketch:type="MSShapeGroup"  points="727.681644 -71.9035869 770.041019 20.59668 562.404297 3.4201885 "></polygon>
+        </g>
+    </g>
+</svg>
